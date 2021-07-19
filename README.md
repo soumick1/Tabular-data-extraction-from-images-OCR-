@@ -1,1 +1,1 @@
-# Tabular-data-extraction-from-images-OCR-
+# Tabular-data-extraction-from-images-OCR by pytesseract
